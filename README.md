@@ -1,2 +1,2 @@
 # CS342-OperatingSystems-Project3
-Operating System Project 3 implemented in Fall 2018
+Touching to the Linux kernel, learning and getting experience with virtual memory, learning the virtual memory layout of a process, accessing and parsing multi-level page table of a process.
